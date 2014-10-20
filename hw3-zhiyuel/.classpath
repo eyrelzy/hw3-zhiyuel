@@ -32,5 +32,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/zhiyuel/Downloads/lingpipe-4.1.1/demos/lib/lucene-core-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/zhiyuel/Downloads/jspell-osgi/JSpellCorrectConsumer.jar"/>
+	<classpathentry kind="lib" path="/Users/zhiyuel/Downloads/jspell-osgi/JSpellCorrectInterfaceBundle.jar"/>
+	<classpathentry kind="lib" path="/Users/zhiyuel/Downloads/jspell-osgi/JSpellCorrectService.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
